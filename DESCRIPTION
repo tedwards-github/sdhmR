@@ -1,0 +1,16 @@
+Package: sdmR
+Type: Package
+Title: sdhmR: Species Distribution and Habitat Modelling
+Version: 2019.2
+Author: Thomas C. Edwards
+Maintainer: Thomas C. Edwards <t.edwards@usu.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

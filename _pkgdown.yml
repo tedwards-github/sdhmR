@@ -1,0 +1,59 @@
+title: sdhmR
+#url: http://tedwards_github.github.io/sdhmR
+template:
+  params:
+    bootswatch: spacelab
+
+toc:
+  depth: 3
+
+reference:
+
+authors:
+  name:
+
+navbar:
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: "Course Overview"
+      icon: fas fa-book
+      href: articles/sdmR.html
+      menu:
+        - text: "Introduction to Course"
+          href: articles/Introduction2Course.html
+        - text: "Getting Started"
+          href: articles/GetStarted.html
+        - text: "Course-required Packages to Install"
+          href: articles/InstallPackages.html
+        - text: "Install 64--bit Java on Windows Systems"
+          href: articles/InstallJava.html
+        - text: "Install MAXENT"
+          href: articles/InstallMAXENT.html
+        - text: "Obtain Course Material"
+          href: articles/ObtainCourseMaterial.html
+    - text: "Basics of R"
+      icon: fas fa-calendar
+#      href: articles/schedule.html
+      menu:
+        - text: "Introduction: Some R Basics"
+          href: articles/IntroBasicsOfR.html
+        - text: "Refresher: Packages and Functions in R"
+          href: articles/PackagesFunctions.html
+    - text: "Course Modules"
+      icon: fa-file-pdf-o
+      menu:
+        - text: "Module 1: Introduction to Species Distribution and Habitat Modelling"
+          href: articles/modules/Lecture0.html
+#    - text: "More Stuff Here"
+#      icon: fas fa-desktop
+#      menu:
+#        - text: "Projects and directories"
+#          href: articles/projects_and_directories.html
+#        - text: "Introduction to R Markdown"
+#          href: articles/rmarkdown_intro.html
+
+
+#    - icon: fas fa-pencil-square-o
+#      text: "Assignments"
+#href: articles/homework.html
